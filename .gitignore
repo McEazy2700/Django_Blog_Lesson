@@ -1,2 +1,4 @@
 env 
 django_project/.env
+django_project/.env
+.env
